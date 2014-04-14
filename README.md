@@ -1,5 +1,6 @@
-time-chunked-stream - Time-based Streaming Chunking
-===================================================
+Time-based Streaming Chunking
+=============================
+[![Build Status](https://travis-ci.org/jonasfj/time-chunked-stream.svg?branch=master)](https://travis-ci.org/jonasfj/time-chunked-stream)
 
 A node.js deplux stream that buffers input for a while before outputting it.
 This is useful if you have an readable-stream producing many small chunks that

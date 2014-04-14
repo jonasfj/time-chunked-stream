@@ -1,6 +1,6 @@
 {
   "name":         "time-chunked-stream",
-  "version":      "0.1.0",
+  "version":      "1.0.0",
   "author":       "Jonas Finnemann Jensen <jopsen@gmail.com>",
   "description":  "Time-based Streaming Chunking",
   "license":      "MIT",
