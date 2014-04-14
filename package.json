@@ -1,0 +1,20 @@
+{
+  "name":         "time-chunked-stream",
+  "version":      "0.1.0",
+  "author":       "Jonas Finnemann Jensen <jopsen@gmail.com>",
+  "description":  "Time-based Streaming Chunking",
+  "license":      "MIT",
+  "scripts": {
+    "test":   "nodeunit index_test.js"
+  },
+  "repository": {
+    "type":   "git",
+    "url":    "https://github.com/jonasfj/time-chunked-stream.git"
+  },
+  "dependencies": {
+    "buffer-builder":                   "0.1.0"
+  },
+  "devDependencies": {
+    "nodeunit":                         "0.8.6"
+  }
+}
